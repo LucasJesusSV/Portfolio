@@ -1,11 +1,18 @@
-🌐 Portfólio Digital Bem-vindo ao meu portfólio! 
-🚀 Aqui você encontra alguns dos meus projetos, experiências e aprendizados na área de Desenvolvimento de Sistemas .  
-📖 Sobre Mim Meu nome é Lucas de Jesus , sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Tenho interesse em desenvolvimento web, interfaces e banco de dados , sempre buscando aprender e aplicar novos conhecimentos.  
-🛠️ Tecnologias e Ferramentas Linguagens: JavaScript, HTML, CSS Ferramentas: Git, GitHub, VS Code 
-📂 Projetos em destaque
-🔹 (https://portfliolucas.netlify.app/) Portfólio digital hospedado no Netlify, com meus principais projetos. 
-🔹 Projeto Pet Shop Sistema de gerenciamento para pet shop com cadastro de clientes, pets e agendamento de serviços.  
-🚀 Como Rodar os Projetos Clonar este: git clone https://github.com/seu-usuario/seu-repositorio.git cd nome-do-projeto  
-📫 Contato 📧 E-mail: dasilvadejesusluacas23@gmail.com 
+🚀 Portfólio Digital de Lucas de Jesus
 
-🌐 Portfólio Online: portfliolucas.netlify.app
+Olá! Seja bem-vindo(a) ao meu espaço de projetos.Este repositório serve como um hub para o meu trabalho, experiências e aprendizados na área de Desenvolvimento de Sistemas.
+
+📖 Sobre Mim
+
+
+Meu nome é Lucas de Jesus, sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta apaixonado por tecnologia.Tenho um interesse especial em:Desenvolvimento Web (Front-end e interfaces)Banco de DadosMelhores Práticas de CódigoEstou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e intuitivas.
+
+🛠️ Tecnologias e FerramentasMinhas principais ferramentas e tecnologias incluem:CategoriaTecnologiasLinguagensJavaScript, HTML, CSSControle de VersãoGit, GitHubAmbiente/EditorVS Code
+
+📂 Projetos em DestaqueAqui estão alguns dos projetos que demonstram minhas habilidades:
+🔹 Portfólio DigitalDescrição: Meu portfólio oficial, hospedado no Netlify, que apresenta de forma organizada meus principais projetos, experiências e habilidades.
+Acesso: [portfliolucas.netlify.app](https://portfoliolucasjesus.netlify.app/)
+
+
+
+📫 ContatoEstou aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato:E-mail: dasilvadejesusluacas23@gmail.comPortfólio Online: [portfliolucas.netlify.app](https://portfoliolucasjesus.netlify.app/)
