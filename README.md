@@ -7,7 +7,9 @@ Olá! Seja bem-vindo(a) ao meu espaço de projetos.Este repositório serve como 
 
 Meu nome é Lucas de Jesus, sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta apaixonado por tecnologia.Tenho um interesse especial em: Desenvolvimento Web (Front-end e interfaces)Banco de Dados Melhores Práticas de Código. Estou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e intuitivas.
 
-🛠️ Tecnologias e FerramentasMinhas principais ferramentas e tecnologias incluem:Categoria Tecnologias Linguagens JavaScript, HTML, CSSControle de Versão Git, GitHubAmbiente/ Editor VS Code
+🛠️ Tecnologias e Ferramentas 
+
+Minhas principais ferramentas e tecnologias incluem: Categoria Tecnologias Linguagens JavaScript, HTML, CSSControle de Versão Git, GitHub Ambiente/ Editor VS Code
 
 📂 Projetos em Destaque 
 
