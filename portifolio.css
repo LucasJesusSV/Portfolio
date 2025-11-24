@@ -179,15 +179,6 @@ gap: 90px;
   animation: flutuar 2s ease-in-out infinite alternate;
 }
 
-@keyframes  flutuar{
-    0%{
-        top: 0;
-    }
-    100%{
-        top:30px;
-    }
-}
-
 /*ESTILO ESPECIALIDADES*/
 section.especialidades{
     padding: 80px 4%;
