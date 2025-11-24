@@ -5,12 +5,17 @@ Olá! Seja bem-vindo(a) ao meu espaço de projetos.Este repositório serve como 
 📖 Sobre Mim
 
 
-Meu nome é Lucas de Jesus, sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta apaixonado por tecnologia.Tenho um interesse especial em:Desenvolvimento Web (Front-end e interfaces)Banco de DadosMelhores Práticas de CódigoEstou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e intuitivas.
+Meu nome é Lucas de Jesus, sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta apaixonado por tecnologia.Tenho um interesse especial em: Desenvolvimento Web (Front-end e interfaces)Banco de Dados Melhores Práticas de Código. Estou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e intuitivas.
 
-🛠️ Tecnologias e FerramentasMinhas principais ferramentas e tecnologias incluem:CategoriaTecnologiasLinguagensJavaScript, HTML, CSSControle de VersãoGit, GitHubAmbiente/EditorVS Code
+🛠️ Tecnologias e FerramentasMinhas principais ferramentas e tecnologias incluem:Categoria Tecnologias Linguagens JavaScript, HTML, CSSControle de Versão Git, GitHubAmbiente/ Editor VS Code
 
-📂 Projetos em DestaqueAqui estão alguns dos projetos que demonstram minhas habilidades:
-🔹 Portfólio DigitalDescrição: Meu portfólio oficial, hospedado no Netlify, que apresenta de forma organizada meus principais projetos, experiências e habilidades.
+📂 Projetos em Destaque 
+
+Aqui estão alguns dos projetos que demonstram minhas habilidades:
+
+🔹 Portfólio Digital
+
+Descrição: Meu portfólio oficial, hospedado no Netlify, que apresenta de forma organizada meus principais projetos, experiências e habilidades.
 Acesso: [portfliolucas.netlify.app](https://portfoliolucasjesus.netlify.app/)
 
 
